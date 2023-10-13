@@ -1,5 +1,5 @@
 
-   <img src=".github/logo.svg" alt="Churrascometro"/>
+
 
 
 
