@@ -5,7 +5,7 @@
 
    Projeto desenvolvido no curso do ProgBR e design inspirado em Karoline Tahagassi 
 
-
+link GitHub Pages: https://caarolinaoliveira.github.io/churrascometro/ 
 
   <img alt="mockup" src="assets/churrascometro%20(1).png" width="100%">
 
@@ -36,3 +36,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+
+
+
