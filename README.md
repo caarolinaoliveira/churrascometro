@@ -1,7 +1,4 @@
 
-   <img src=".github/logo.svg" alt="Churrascometro"/>
-
-
 
    Projeto desenvolvido no curso do ProgBR e design inspirado em Karoline Tahagassi 
 
